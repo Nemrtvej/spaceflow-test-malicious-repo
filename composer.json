@@ -1,0 +1,13 @@
+{
+    "name": "spaceflow/date-time",
+    "description": "Test whether namespace squatting is prohibited now",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Marek Makovec",
+            "email": "marek.makovec@spaceflow.io"
+        }
+    ],
+    "require": {}
+}
